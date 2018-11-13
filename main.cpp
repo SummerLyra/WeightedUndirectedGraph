@@ -2,10 +2,6 @@
 
 using namespace std;
 
-const int MAX = 1000;
-int g[100][100], x[100], bestx[100];
-int cl = 0, bestl = MAX, n;
-
 void title()
 {
 	cout << "--------------------------------------------------" << endl;
